@@ -3,7 +3,7 @@
 # FILENAME: perceptron,py
 # SPECIFICATION: A python program that trains single/multi-layer perceptrons
 # FOR: CS 4210- Assignment #3
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: 10 hours
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: YOU HAVE TO WORK WITH THE PYTHON LIBRARIES numpy AND pandas to complete this code.
